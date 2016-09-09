@@ -1,5 +1,4 @@
-# 4PSA VoipNow 
-## SystemAPI Client for Java version 2.0
+# 4PSA VoipNow SystemAPI Client for Java version 2.0
 
 ### Introduction
 
